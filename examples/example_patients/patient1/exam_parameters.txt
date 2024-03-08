@@ -1,0 +1,19 @@
+OCT Image
+Scan Angle: 10°
+Size X: 512 pixels (3.0 mm)
+Size Z: 496 pixels (1.9 mm)
+Scaling X: 5.66 µm/pixel
+Scaling Z: 3.87 µm/pixel
+ART Mode: ON (5 images averaged)
+A-Scan Rate: 85 kHz
+Eye Length: Medium
+Quality: 43 dB
+OCTA Quality: 38 dB
+EDI Mode: OFF
+EVI Mode: OFF
+Acquisition Time: 12:32:29 (UTC+2)
+
+OCT Scan Pattern
+Number of B-Scans: 512
+Pattern Size: 10.0° x 10.0° (3.0 x 3.0 mm)
+Distance between B-Scans: 6 µm

@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/OpenOCTAAnalyzer/OpenOCTAAnalyzer.py
+src/OpenOCTAAnalyzer/OpenOCTAAnalyzerFilters.py
+src/OpenOCTAAnalyzer/__init__.py
+src/OpenOCTAAnalyzer.egg-info/PKG-INFO
+src/OpenOCTAAnalyzer.egg-info/SOURCES.txt
+src/OpenOCTAAnalyzer.egg-info/dependency_links.txt
+src/OpenOCTAAnalyzer.egg-info/top_level.txt
